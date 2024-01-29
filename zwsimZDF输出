@@ -1,0 +1,1 @@
+1. Zdf的工厂模式吗zwzdgGetObject  zwzdfGetAction不能并行，需要critical
